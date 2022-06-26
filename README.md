@@ -5,6 +5,9 @@
 **[use]** 
 - flutter
 - android studio
-- firebase
-- for android
-- for iOS
+- firebase ----- DB
+
+
+**[지원 플랫폼]**
+- android
+- iOS
